@@ -53,10 +53,10 @@ CodeAlpha_Tasks/
 ## ▶️ How to Run
 
 Compile and run any project using:
-
+```
 g++ filename.cpp -o output  
 ./output  
-
+```
 ---
 
 ## 👨‍💻 Author

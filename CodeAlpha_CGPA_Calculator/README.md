@@ -12,10 +12,12 @@ This program calculates the CGPA of a student based on user input of grade point
 - C++
 
 ## ▶️ How to Run
-g++ CGPA_Calculator.cpp -o cgpa
+```g++ CGPA_Calculator.cpp -o cgpa
 ./cgpa
+```
 
 ## 📷 Sample Run
+```
 Enter total number of courses: 2
 
 Course 1  
@@ -28,6 +30,6 @@ Enter credit hours: 4
 
 Total Credits: 7  
 CGPA: 3.67
-
+```
 ## 👨‍💻 Author
 Muhammad Awais Malik

@@ -13,10 +13,11 @@ This program simulates basic banking operations using Object-Oriented Programmin
 - Object-Oriented Programming (Classes & Methods)
 
 ## ▶️ How to Run
-g++ SimpleBanking.cpp -o bank
+```g++ SimpleBanking.cpp -o bank
 ./bank
-
+```
 ## 📷 Sample Run
+```
 Enter name: Awais  
 Enter account number: 10002  
 
@@ -24,6 +25,6 @@ Enter account number: 10002
 2. Withdraw  
 3. Check Balance  
 4. Exit  
-
+```
 ## 👨‍💻 Author
 Muhammad Awais Malik
