@@ -32,6 +32,7 @@ The tasks focus on core C++ concepts including basic programming, file handling,
 ---
 
 ## 📂 Project Structure
+```
 CodeAlpha_Tasks/
 │
 ├── CodeAlpha_CGPA_Calculator/
@@ -46,7 +47,7 @@ CodeAlpha_Tasks/
 ├── CodeAlpha_SimpleBanking/
 │   ├── SimpleBanking.cpp
 │   └── README.md
-
+```
 ---
 
 ## ▶️ How to Run
